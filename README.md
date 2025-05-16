@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🤖 AI Agent LangGraph Chatbot
 
 An intelligent agent-powered chatbot API built using **LangGraph**, **Groq LLMs**, and **FastAPI**, enhanced with real-time search using **TavilySearchResults**. Supports multiple large models such as LLaMA 3, Mixtral, and Gemma.
